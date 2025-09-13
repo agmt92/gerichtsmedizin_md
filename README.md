@@ -1,21 +1,16 @@
-# Forensische Medizin – High-Yield Cloze-Deck
+# Gerichtsmedizin Zusammenfassung — MUW
+#### Update: 13.09.2025
+#### Verwenden Sie diesen Link, um das aktuellste Deck zu erhalten
 
 **Kurzbeschreibung:**
 Dieses geteilte Anki-Deck richtet sich in erster Linie an **Nostrifikant\:innen**, die bereits als **Studierende der Medizinischen Universität Wien** immatrikuliert sind. Es umfasst **24 High-Yield-Themen** aus dem unten angeführten Standardwerk und ist darauf ausgelegt, prüfungsrelevantes Wissen kompakt, wiederholbar und nachhaltig zu verankern.
 
 ---
 
-## Für wen ist das Deck geeignet?
-
-* Nostrifikant\:innen mit klinischer Vorerfahrung, die ihre Kenntnisse systematisch auf das Curriculum an der MedUni Wien ausrichten möchten.
-* Studierende, die forensische Kernthemen effizient festigen wollen (C1-Niveau, formal).
-
----
-
 ## Inhalt & Umfang
 
 * **24 High-Yield-Themen** aus: *Forensische Medizin für Studium und Praxis* (s. Quellenangabe).
-* Fokus auf prüfungsrelevante Definitionen, Kernbefunde, typische Fallkonstellationen, Differenzialdiagnosen und Merksätze.
+* Fokus auf prüfungsrelevante Definitionen, Kriterien, typische Beispiele und Erlärungen.
 
 ---
 
@@ -44,9 +39,7 @@ Dieses geteilte Anki-Deck richtet sich in erster Linie an **Nostrifikant\:innen*
 
 **Mobil (Telefon/Tablet):**
 
-* **Linker Kartenrand:** genuine Clozes nacheinander
-* **Rechter Kartenrand:** pseudo Clozes nacheinander
-* **Tippen auf die Lücke:** genau diese Lücke anzeigen
+* **Lang Tippen auf die Lücke:** genau diese Lücke anzeigen
 
 ---
 
