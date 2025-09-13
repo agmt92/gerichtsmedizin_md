@@ -1,4 +1,4 @@
-# Forensische Medizin – High-Yield Cloze-Deck (C1)
+# Forensische Medizin – High-Yield Cloze-Deck
 
 **Kurzbeschreibung:**
 Dieses geteilte Anki-Deck richtet sich in erster Linie an **Nostrifikant\:innen**, die bereits als **Studierende der Medizinischen Universität Wien** immatrikuliert sind. Es umfasst **24 High-Yield-Themen** aus dem unten angeführten Standardwerk und ist darauf ausgelegt, prüfungsrelevantes Wissen kompakt, wiederholbar und nachhaltig zu verankern.
