@@ -1,6 +1,6 @@
 # Gerichtsmedizin Zusammenfassung — MUW
 #### Update: 13.09.2025
-#### Verwenden Sie diesen Link, um das aktuellste Deck zu erhalten
+###### Verwenden Sie diesen Link, um das aktuellste Deck zu erhalten
 
 **Kurzbeschreibung:**
 Dieses geteilte Anki-Deck richtet sich in erster Linie an **Nostrifikant\:innen**, die bereits als **Studierende der Medizinischen Universität Wien** immatrikuliert sind. Es umfasst **24 High-Yield-Themen** aus dem unten angeführten Standardwerk und ist darauf ausgelegt, prüfungsrelevantes Wissen kompakt, wiederholbar und nachhaltig zu verankern.
